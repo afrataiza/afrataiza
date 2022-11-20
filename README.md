@@ -11,6 +11,12 @@ Atualmente já finalizei os módulos de Front end e Back end na Trybe. Tenho 3 g
 
 </br>
 
+![Afra Taíza GitHub stats](https://github-readme-stats.vercel.app/api?username=afrataiza&show_icons=true&theme=bear)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrataiza&layout=compact&theme=bear)](https://github.com/afrataiza/github-readme-stats)
+
+</br>
+
 <h3 align="left">Linguagens e Ferramentas</h3>
 
 </br>
@@ -95,12 +101,6 @@ Atualmente já finalizei os módulos de Front end e Back end na Trybe. Tenho 3 g
     </td>
   </tr>
 </table>
-
-</br>
-
-![Afra Taíza GitHub stats](https://github-readme-stats.vercel.app/api?username=afrataiza&show_icons=true&theme=bear)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrataiza&layout=compact&theme=bear)](https://github.com/afrataiza/github-readme-stats)
 
 </br>
 
