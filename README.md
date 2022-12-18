@@ -6,8 +6,8 @@
 </br>
 
 ## Olá 👋 pessoal!
-Apaixonada por tecnologia e por animais. Estudante de Desenvolvimento Web Full Stack na Trybe e também estudante de Desenvolvimento Web na Digital House.
-Atualmente já finalizei os módulos de Front end e Back end na Trybe. Tenho 3 gatos e amo cozinhar. :blush:
+Apaixonada por tecnologia e por animais. Dev Full Stack, concluindo curso de desenvolvimento na Trybe e estudante de Desenvolvimento Web na Digital House.
+Tenho 3 gatos e amo cozinhar. :blush:
 
 </br>
 
