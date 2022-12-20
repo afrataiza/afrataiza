@@ -11,7 +11,7 @@ Tenho 3 gatos e amo cozinhar. :blush:
 
 </br>
 
-![Afra Taíza GitHub stats](https://github-readme-stats.vercel.app/api?username=afrataiza&show_icons=true&theme=bear)
+![Afra Taíza GitHub stats](https://github-readme-stats.vercel.app/api?username=afrataiza&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afrataiza&layout=compact&theme=dark)](https://github.com/afrataiza/github-readme-stats)
 
