@@ -6,7 +6,7 @@
 </br>
 
 ## Olá 👋 pessoal!
-Apaixonada por tecnologia e por animais. Dev Full Stack, formada em Desenvolvimento Web na Trybe e estudante de Desenvolvimento Web na Digital House.
+Apaixonada por tecnologia e por animais. Dev Full Stack, formada em Desenvolvimento Web na Trybe e na Digital House.
 Tenho 3 gatos e amo cozinhar. :blush:
 
 </br>
